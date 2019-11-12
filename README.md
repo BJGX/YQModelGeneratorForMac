@@ -1,1 +1,3 @@
 # YQModelGeneratorForMac
+从url获取json 并一键转化成Model
+点击导出, 会在桌面的OCfile文件夹里面生成对应的model文件
